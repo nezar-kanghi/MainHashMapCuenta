@@ -1,0 +1,1 @@
+En este ejercicio usamos el hashMap para asociar cuentas a valores, creamos varias entradas en el hashMap para almacenarlas y luego recorrer la coleccion y asi mostrar por consola las cuentas y sus datos asociados. 
