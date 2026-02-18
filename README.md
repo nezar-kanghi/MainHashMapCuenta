@@ -1,1 +1,1 @@
-En este ejercicio usamos el hashMap para asociar cuentas a valores, creamos varias entradas en el hashMap para almacenarlas y luego recorrer la coleccion y asi mostrar por consola las cuentas y sus datos asociados. 
+En este ejercicio usamos el hashMap<String, Integer> para contar cuántas veces aparece cada persona en un texto, se pide una frase por consola y se divide el texto en palabras usando split(""), si la palabra existe en el HasMap incrementa su contador, si no existe, la añade con valor 1, finalmente recorre el mapa y muestra cuantas veces aparece cada palabra
